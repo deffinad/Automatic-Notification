@@ -1,0 +1,25 @@
+.header-notif .item {
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+}
+.header-notif .item:hover {
+  color: #4338ca;
+}
+
+.header-notif .item::after {
+  content: "";
+  display: block;
+  width: 0;
+  margin-top: 12px;
+  height: 3px;
+  background: #4338ca;
+  transform: scaleX(0);
+  transition: transform 250ms ease-in-out;
+}
+
+.header-notif .item:hover::after,
+.header-notif .item.active::after {
+  width: 100%;
+  transform: scaleX(1);
+}
