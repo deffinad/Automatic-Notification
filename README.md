@@ -4,6 +4,6 @@ Sistem ini merupakan sistem automatic notification dalam konteks manajemen perka
 
 Pada repositori ini terdapat 2 branch
 <ul>
-  <li>Master untuk server dari model notifikais</li>
-  <li>Client untuk simulasi aplikasi tata surat berbasis website</li>
+  <li>Master untuk server dari model notifikasi <a href="https://automatic-notification-server.vercel.app/v1">Lihat Disini</a></li>
+  <li>Client untuk simulasi aplikasi tata surat berbasis website <a href="https://automatic-notification-client.vercel.app/v1/suratkeluar">Lihat Disini</a></li>
 </ul>
