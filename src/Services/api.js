@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const base_url = "https://tatasurat-notification-server.herokuapp.com/v1";
+const base_url = "https://automatic-notification-server.vercel.app/v1";
 
 export const login = async (email, password) => {
   return new Promise((resolve, reject) => {
