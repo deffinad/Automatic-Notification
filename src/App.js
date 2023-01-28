@@ -12,7 +12,7 @@ import { TambahSuratKeluar } from "./Pages/Surat/tambahSuratKeluar";
 import { DetailSuratKeluar } from "./Pages/Surat/detailSuratKeluar";
 import { PengajuanSurat } from "./Pages/Surat/pengajuanSurat";
 import { Profile } from "./Pages/Profile/Profile";
-import { Worke } from "@react-pdf-viewer/core";
+import { Worker } from "@react-pdf-viewer/core";
 
 function App() {
   const { token, setToken } = useToken();
