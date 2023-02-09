@@ -6,5 +6,5 @@ Pada repositori ini terdapat 2 branch
 <ul>
   <li>Master untuk server dari model notifikasi <a href="https://automatic-notification-server.vercel.app/v1" target="_blank">Lihat Disini</a></li>
   <li>Client untuk simulasi aplikasi tata surat berbasis website <a href="https://automatic-notification-client.vercel.app" target="_blank">Lihat Disini</a></li>
-  <li>Client untuk simulasi aplikasi tata surat berbasis mobile <a href="https://drive.google.com/drive/folders/1e0V4ewf5XlH2hAwnxj6BLcoq5uxmbMCP?usp=sharing" target="_blank">Lihat Disini</a></li>
+  <li>Client untuk simulasi aplikasi tata surat berbasis mobile <a href="https://bit.ly/SimulasiTataSuratMobile" target="_blank">Lihat Disini</a></li>
 </ul>
