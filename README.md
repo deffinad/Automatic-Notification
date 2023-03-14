@@ -8,3 +8,12 @@ Pada repositori ini terdapat 2 branch
   <li>Client untuk simulasi aplikasi tata surat berbasis website <a href="https://automatic-notification-client.vercel.app" target="_blank">Lihat Disini</a></li>
   <li>Client untuk simulasi aplikasi tata surat berbasis mobile <a href="https://bit.ly/SimulasiTataSuratMobile" target="_blank">Lihat Disini</a></li>
 </ul>
+
+User Login
+- Pengusul
+  username -> deffinjr890@gmail.com
+  password -> 123
+  
+- Admin
+  username -> azisfaisal@gmail.com
+  password -> 123
