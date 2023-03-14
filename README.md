@@ -20,3 +20,4 @@ Sistem ini merupakan sistem automatic notification dalam konteks manajemen perka
 
 # Interface
 ![image](https://user-images.githubusercontent.com/56620541/224926030-74325f27-7fb3-4b92-99f1-4a54d4aa58cc.png)
+![WhatsApp Image 2023-03-14 at 00 24 34](https://user-images.githubusercontent.com/56620541/224926154-ffccdf77-8ec3-4996-8791-36662c7772f1.jpeg)
